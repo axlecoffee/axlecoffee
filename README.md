@@ -6,11 +6,13 @@
 
 ## About Me
 
-- 
+- 14
+- File all complaints to my secretary, Pandy#0001
 - self taught backend developer.
 - He/Them (gay, demi)
 - Axle#9171
 - [Youtube where I dont post](https://www.youtube.com/channel/UCK_RxCKtAN4zA06YTaw1TpQ)
+- Email: AxleCat284@outlook.com
 - [SkyStats](https://github.com/AxleCat284/SkyStats)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=AxleCat284&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
