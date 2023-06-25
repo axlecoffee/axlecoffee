@@ -15,7 +15,7 @@
 
 ##### Contacts:
 
-**Discord**: xaxle ID: 790736254714642453
+**Discord**: xaxle ID: 790736254714642453\n
 **Email**: ShayneDuggan@axle.coffee
 **Website**: http://axle.coffee/ (ssl soon:tm:)
 
