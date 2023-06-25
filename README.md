@@ -16,7 +16,8 @@
 ##### Contacts:
 
 **Discord**: Axle#9171
-**Email**: AxleCat284@outlook.com
+**Email**: ShayneDuggan@axle.coffee
+**Website**: http://axle.coffee/ (ssl soon:tm:)
 
 ##### Projects:
 
