@@ -17,9 +17,9 @@
 
 **Discord**: @axle.coffee ID: 790736254714642453
 
-**Email**: ShayneDuggan@axle.coffee
+**Email**: bloodymountain@outlook.com
 
-**Website**: http://axle.coffee/ (ssl soon:tm:)
+**Website**: https://axle.coffee
 
 ##### Projects:
 
