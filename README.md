@@ -4,8 +4,8 @@
 
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AxleCat284&theme=shadow_blue&hide_border=false" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
 
-<img width="50%" height="2px" align="right" src="https://i.imgur.com/DkKayja.png">
 
+###
 
 ## About Me
 
