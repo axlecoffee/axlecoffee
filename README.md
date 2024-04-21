@@ -29,7 +29,7 @@
 
 [Moderator @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
 
-[SkyStats Website](http://skystats.lol "SkyStats")
+[Ratter Scanner](https://ratterscanner.com "RatterScanner")
 
 ## Languages
 
