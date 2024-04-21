@@ -85,6 +85,7 @@
 ## Build tools
 
 ![img](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![img](https://img.shields.io/badge/Fabric_Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)
 ![img](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
