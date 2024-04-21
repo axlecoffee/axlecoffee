@@ -7,7 +7,7 @@
 ## About Me
 
 - 15
-- File all complaints to my secretary, Pandy#8075
+- File all complaints to my secretary, pqndy
 - self taught backend developer.
 - He/Them 🏳️‍🌈
 
