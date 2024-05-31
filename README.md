@@ -25,7 +25,7 @@
 
 [Moderator @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
 
-[Ratter Scanner](https://ratterscanner.com "RatterScanner")
+[Contributer & Donator @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
 
 ## Languages
 
