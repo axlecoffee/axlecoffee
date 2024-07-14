@@ -23,9 +23,13 @@
 
 [Contributer & Member @ SkyblockCore](https://github.com/SkyBlock-Central/SkyBlock-Core "SkyblockCore")
 
-[Moderator @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
+[Moderator & Contributor @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
 
-[Contributer & Donator @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
+[Contributer & File Checker @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
+
+[Staff @ SkyClient](https://skyclient.co)
+
+[Staff @ Polyfrost/Oneconfig](https://polyfrost.org)
 
 ## Languages
 
