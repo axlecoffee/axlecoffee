@@ -25,7 +25,7 @@
 
 [Moderator & Contributor @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
 
-[Contributer & File Checker @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
+[Contributor & File Checker @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
 
 [Staff @ SkyClient](https://skyclient.co)
 
