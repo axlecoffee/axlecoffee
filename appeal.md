@@ -7,8 +7,11 @@ Hello,
 I (along with @40000s whom I will be referring to as "Funny" as that was their old username), were recently banned and terminated from taunahi a few days ago regarding an exploit a friend found in your leaderboard API. 
 
 I will begin by explaining the timeline of events. 
+
 -# all images are full-screen captures
+
 -# all images will be <> so they do not embed
+
 -# all images are hosted on my CDN and will be up indefinitely 
 
 October 21st 2024:
