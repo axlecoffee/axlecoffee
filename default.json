@@ -1,0 +1,5607 @@
+[
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Thorn Aimbot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto Bonemerang"
+      },
+      {
+        "value": 150.0,
+        "name": "Throw delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Ice Fill Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto stop"
+      },
+      {
+        "value": 0.15,
+        "name": "Ice slowdown"
+      },
+      {
+        "value": true,
+        "name": "No ice slip"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Close",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Antibot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Hypixel",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Invis ticks check"
+      },
+      {
+        "value": false,
+        "name": "Tab ticks check"
+      },
+      {
+        "value": true,
+        "name": "NPC check"
+      },
+      {
+        "value": false,
+        "name": "Name check"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Speed",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Vanilla",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Speed"
+      },
+      {
+        "value": true,
+        "name": "Stop on disable"
+      },
+      {
+        "value": true,
+        "name": "Disable on flag"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer"
+      },
+      {
+        "value": true,
+        "name": "Sneak timer"
+      },
+      {
+        "value": 1.0,
+        "name": "Sneak timer speed"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Rotate",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Hypixel",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Ignore 0 pitch"
+      },
+      {
+        "value": false,
+        "name": "Keep motion"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Staff Analyser",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Inventory HUD",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.03,
+        "name": "X1234  "
+      },
+      {
+        "value": 0.15,
+        "name": "Y1234  "
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": true,
+        "name": "Outline"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Terminator Clicker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "CPS"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Rift Farming Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Quick caducous"
+      },
+      {
+        "value": true,
+        "name": "Auto agaricus"
+      },
+      {
+        "value": true,
+        "name": "Wilted berberis ESP"
+      },
+      {
+        "value": true,
+        "name": "Wilted berberis nuker"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Bear Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "",
+        "name": "Swap item"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "PlayerESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Outline"
+      },
+      {
+        "value": false,
+        "name": "2D"
+      },
+      {
+        "value": false,
+        "name": "Chams"
+      },
+      {
+        "value": false,
+        "name": "Box"
+      },
+      {
+        "value": false,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "HP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Ice Spray",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "From inventory"
+      },
+      {
+        "value": false,
+        "name": "Through walls"
+      },
+      {
+        "value": 5.0,
+        "name": "Spray delay"
+      },
+      {
+        "value": 6.0,
+        "name": "Distance"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": true,
+        "name": "Minis"
+      },
+      {
+        "value": true,
+        "name": "Fels"
+      },
+      {
+        "value": true,
+        "name": "Blood Minis"
+      },
+      {
+        "value": true,
+        "name": "Bats"
+      },
+      {
+        "value": true,
+        "name": "Mimic"
+      },
+      {
+        "value": true,
+        "name": "Wither Lords"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Create new keybind",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Align",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Legit",
+        "name": "Mode"
+      },
+      {
+        "value": 6.0,
+        "name": "Distance"
+      },
+      {
+        "value": 150.0,
+        "name": "Delay"
+      },
+      {
+        "value": 1500.0,
+        "name": "Scan delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Thyst Hider",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Time Changer",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.0,
+        "name": "Time"
+      },
+      {
+        "value": true,
+        "name": "Rotation Only"
+      },
+      {
+        "value": "Keep",
+        "name": "Weather"
+      },
+      {
+        "value": 100.0,
+        "name": "Strength"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Hoppity ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Shiny Blocks",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "ESP"
+      },
+      {
+        "value": false,
+        "name": "Nuker"
+      },
+      {
+        "value": false,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "Macro"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Odonata ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": -16711681,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Salvage",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "- Crimson Items"
+      },
+      {
+        "value": false,
+        "name": "- Arachne Items"
+      },
+      {
+        "value": false,
+        "name": "Salvage 50/50 items"
+      },
+      {
+        "value": false,
+        "name": "Auto Sell"
+      },
+      {
+        "value": false,
+        "name": "Sell in all shops"
+      },
+      {
+        "value": true,
+        "name": "- Healing VIII"
+      },
+      {
+        "value": true,
+        "name": "- Journals"
+      },
+      {
+        "value": false,
+        "name": "- Superbooms"
+      },
+      {
+        "value": true,
+        "name": "- Weights"
+      },
+      {
+        "value": true,
+        "name": "- Spirit leaps"
+      },
+      {
+        "value": true,
+        "name": "- Tripwire Hooks"
+      },
+      {
+        "value": true,
+        "name": "- Dungeon Trash"
+      },
+      {
+        "value": false,
+        "name": "- Custom"
+      },
+      {
+        "value": "",
+        "name": "IDs"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Nick Hider",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "",
+        "name": "Username"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Slow",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Vanilla",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Sprint"
+      },
+      {
+        "value": 1.0,
+        "name": "Sword slow"
+      },
+      {
+        "value": 1.0,
+        "name": "Bow slow"
+      },
+      {
+        "value": 1.0,
+        "name": "Eating slow"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Block",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Ability only"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Blaze Swapper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Dillo Finder",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Notify"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "Share spots"
+      },
+      {
+        "name": "Macro"
+      },
+      {
+        "value": "Mines",
+        "name": "Mines warp"
+      },
+      {
+        "value": "Crystals",
+        "name": "Hollows warp"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "NBT Copy",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Frozen Treasure ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Box",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "Nuker"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Optimizations",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Middle",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Reload Chunks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "PVP Info",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Show Levels"
+      },
+      {
+        "value": true,
+        "name": "Show WLR"
+      },
+      {
+        "value": true,
+        "name": "Show FKDR"
+      },
+      {
+        "value": true,
+        "name": "Show streak"
+      },
+      {
+        "value": "",
+        "name": "Api Key"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Flight",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Vanilla",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer"
+      },
+      {
+        "value": 1200.0,
+        "name": "Disabler timer"
+      },
+      {
+        "value": 1500.0,
+        "name": "Auto disable"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Terminal ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Box",
+        "name": "Mode"
+      },
+      {
+        "value": 32.0,
+        "name": "Distance"
+      },
+      {
+        "value": -65281,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Target HUD",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Target ESP"
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": false,
+        "name": "Only aura"
+      },
+      {
+        "value": 0.6,
+        "name": "X123   "
+      },
+      {
+        "value": 0.6,
+        "name": "Y123   "
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Chat Bypass",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "font",
+        "name": "mode"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Mirrorverse Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Lava Maze"
+      },
+      {
+        "value": true,
+        "name": "Parkour"
+      },
+      {
+        "value": true,
+        "name": "Auto Dance"
+      },
+      {
+        "value": 150.0,
+        "name": "Ping"
+      },
+      {
+        "value": 0.0,
+        "name": "Jump delay ticks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Sumo Fences",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Gift ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Main Lobby ESP"
+      },
+      {
+        "value": true,
+        "name": "Simulator ESP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "TNT Run ping",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 100.0,
+        "name": "Ping (Ticks)"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Secret Hitboxes",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Custom ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Glow"
+      },
+      {
+        "value": false,
+        "name": "2D"
+      },
+      {
+        "value": false,
+        "name": "Box"
+      },
+      {
+        "value": false,
+        "name": "tracers"
+      },
+      {
+        "value": true,
+        "name": "Middle click to copy name"
+      }
+    ],
+    "esp_data": []
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Giants",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 1.0,
+        "name": "Scale"
+      },
+      {
+        "value": true,
+        "name": "Players"
+      },
+      {
+        "value": true,
+        "name": "Mobs"
+      },
+      {
+        "value": false,
+        "name": "ArmorStands"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Chocolate Factory Clicker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 1.0,
+        "name": "Clicks per tick"
+      },
+      {
+        "value": true,
+        "name": "Mute"
+      },
+      {
+        "value": true,
+        "name": "Auto Collect Rabbits"
+      },
+      {
+        "value": true,
+        "name": "Auto Upgrade"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Break Reset",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Powder Chest",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Right Click",
+        "name": "Mode"
+      },
+      {
+        "value": "None",
+        "name": "Swap"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Anti Nicker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Custom Hub Map",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "",
+        "name": "File path"
+      },
+      {
+        "name": "Reload"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Craft",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto craft"
+      },
+      {
+        "value": true,
+        "name": "Planks"
+      },
+      {
+        "value": true,
+        "name": "Quick Pick"
+      },
+      {
+        "value": true,
+        "name": "Ore packs"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Scribe",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Requeue",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Lightning Detect",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Soulcry",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 4200.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Boss spawned"
+      },
+      {
+        "value": false,
+        "name": "From inventory"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Simulator Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 6.0,
+        "name": "Distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Reconnect",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 500.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Trajectory",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": -12409611,
+        "name": "Trajectory color"
+      },
+      {
+        "value": -60139,
+        "name": "Entity color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Gift Opener",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Opener",
+        "name": "Role"
+      },
+      {
+        "value": "",
+        "name": "Target's name"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "ScreenShot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto Copy"
+      },
+      {
+        "value": false,
+        "name": "Hide Sidebar"
+      },
+      {
+        "value": true,
+        "name": "Hide Chat"
+      },
+      {
+        "value": false,
+        "name": "Hide F3"
+      },
+      {
+        "value": true,
+        "name": "Enable nick hider"
+      },
+      {
+        "value": true,
+        "name": "Hide all names"
+      },
+      {
+        "value": true,
+        "name": "Hide skins"
+      },
+      {
+        "value": "",
+        "name": "Uploader"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Storage Manager",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Highlight unlisted"
+      },
+      {
+        "name": "Reset"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Block ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ],
+    "colors": []
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Minigame Aimbot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Color check"
+      },
+      {
+        "value": true,
+        "name": "Ping based prediction"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Rancher Spoofer",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 400.0,
+        "name": "Speed"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Terminals",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Hovered",
+        "name": "Mode"
+      },
+      {
+        "value": "Random",
+        "name": "Click Order"
+      },
+      {
+        "value": 200.0,
+        "name": "Click Delay"
+      },
+      {
+        "value": 600.0,
+        "name": "Rescan delay"
+      },
+      {
+        "value": true,
+        "name": "Melody Terminal"
+      },
+      {
+        "value": false,
+        "name": "Announce throttle"
+      },
+      {
+        "value": "/pc Menu throttled!",
+        "name": "Throttle message"
+      },
+      {
+        "value": true,
+        "name": "Terminal stats"
+      },
+      {
+        "value": false,
+        "name": "Turbo (Dangerous)"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Ghost Blocks",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Range"
+      },
+      {
+        "value": 200.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Swing"
+      },
+      {
+        "value": true,
+        "name": "Cord blocks"
+      },
+      {
+        "value": false,
+        "name": "Right click with pick"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Quiz",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 64.0,
+        "name": "Distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Ice Fill",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Pelt ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "ESP",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      },
+      {
+        "value": true,
+        "name": "Auto Accept"
+      },
+      {
+        "value": true,
+        "name": "Warp to trapper on kill"
+      },
+      {
+        "value": false,
+        "name": "See all animals"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Rat ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "ChestESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Chams",
+        "name": "Mode"
+      },
+      {
+        "value": 1510014720,
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Tracer"
+      },
+      {
+        "value": false,
+        "name": "Cursed"
+      },
+      {
+        "value": false,
+        "name": "Only Dungeon"
+      },
+      {
+        "value": false,
+        "name": "Only Closed"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "XRay",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Normal",
+        "name": "Mode"
+      },
+      {
+        "value": 120.0,
+        "name": "Opacity"
+      },
+      {
+        "value": false,
+        "name": "Cave finder"
+      },
+      {
+        "value": true,
+        "name": "Update blocks"
+      },
+      {
+        "value": 5.0,
+        "name": "Update reach"
+      },
+      {
+        "value": 3.0,
+        "name": "Clicks per tick "
+      }
+    ],
+    "blocks": []
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Full Bright",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Blood Aimbot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": 0.0,
+        "name": "Y offset"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Dragon Hitboxes",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Only M7"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "HClip",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Leaping",
+        "name": "Mode"
+      },
+      {
+        "value": 7.5,
+        "name": "Distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Harp",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Left",
+        "name": "Mode"
+      },
+      {
+        "value": 10.0,
+        "name": "Delay"
+      },
+      {
+        "value": 150.0,
+        "name": "Delay on double"
+      },
+      {
+        "value": true,
+        "name": "Close on fail"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Chest Stealer",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 100.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Name check"
+      },
+      {
+        "value": false,
+        "name": "Steal trash"
+      },
+      {
+        "value": true,
+        "name": "Auto close"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Aim Assist",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 60.0,
+        "name": "Fov"
+      },
+      {
+        "value": 5.0,
+        "name": "Range"
+      },
+      {
+        "value": 20.0,
+        "name": "Min speed"
+      },
+      {
+        "value": 30.0,
+        "name": "Max speed"
+      },
+      {
+        "value": true,
+        "name": "Players"
+      },
+      {
+        "value": false,
+        "name": "Mobs"
+      },
+      {
+        "value": true,
+        "name": "Teams"
+      },
+      {
+        "value": false,
+        "name": "Invisibles"
+      },
+      {
+        "value": true,
+        "name": "Vertical"
+      },
+      {
+        "value": false,
+        "name": "Click aim"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Conversation",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Trail",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Crumbs",
+        "name": "Mode"
+      },
+      {
+        "value": 20.0,
+        "name": "Points"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Stonk Delay",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "name": "Mode"
+      },
+      {
+        "value": 300.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 54,
+    "name": "Click Gui",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "2.8.0",
+        "name": "previous_version"
+      },
+      {
+        "value": true,
+        "name": "Outro"
+      },
+      {
+        "value": 0.00625,
+        "name": "x"
+      },
+      {
+        "value": 0.975,
+        "name": "y"
+      },
+      {
+        "value": 0.5,
+        "name": "GUI_X"
+      },
+      {
+        "value": 0.5,
+        "name": "GUI_Y"
+      },
+      {
+        "value": "Compact",
+        "name": "Gui style"
+      },
+      {
+        "value": -9568270,
+        "name": "Gui color"
+      },
+      {
+        "value": -14167829,
+        "name": "Prefix color"
+      },
+      {
+        "value": false,
+        "name": "Dynamic prefix color"
+      },
+      {
+        "value": "Oringo Client ($ign)",
+        "name": "Title"
+      },
+      {
+        "value": "Rubik",
+        "name": "Font"
+      },
+      {
+        "value": "Color shift",
+        "name": "Mode"
+      },
+      {
+        "value": 2.5,
+        "name": "Rainbow Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Shift Speed "
+      },
+      {
+        "value": -8912922,
+        "name": "Color"
+      },
+      {
+        "value": -5996289,
+        "name": "Color 2"
+      },
+      {
+        "value": true,
+        "name": "HSV Shift"
+      },
+      {
+        "value": "",
+        "name": "CMD Prefix"
+      },
+      {
+        "value": true,
+        "name": "Toggle notifications"
+      },
+      {
+        "value": false,
+        "name": "Send notifications in chat"
+      },
+      {
+        "value": false,
+        "name": "Scale gui"
+      },
+      {
+        "value": false,
+        "name": "Ping Counter"
+      },
+      {
+        "value": false,
+        "name": "BPS counter"
+      },
+      {
+        "value": false,
+        "name": "TPS counter"
+      },
+      {
+        "value": false,
+        "name": "FPS counter"
+      },
+      {
+        "value": false,
+        "name": "Packet Timer"
+      },
+      {
+        "value": false,
+        "name": "Toggle buttons"
+      },
+      {
+        "value": true,
+        "name": "Search bar"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Crystal",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Left",
+        "name": "Location"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Terminator Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Bow",
+        "name": "Rotation"
+      },
+      {
+        "value": 3.0,
+        "name": "Use delay"
+      },
+      {
+        "value": 15.0,
+        "name": "Range"
+      },
+      {
+        "value": "Right",
+        "name": "Mouse"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": "Swap",
+        "name": "Mode"
+      },
+      {
+        "value": "",
+        "name": "Custom Item"
+      },
+      {
+        "value": true,
+        "name": "Boss Lock"
+      },
+      {
+        "value": true,
+        "name": "Only Dungeon"
+      },
+      {
+        "value": false,
+        "name": "Disable in boss"
+      },
+      {
+        "value": false,
+        "name": "Disable on world change"
+      },
+      {
+        "value": true,
+        "name": "Team Check"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Rabbit",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Spring Boots"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Leap",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Only leap held"
+      },
+      {
+        "value": "Swing",
+        "name": "Activate"
+      },
+      {
+        "value": false,
+        "name": "From inventory"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Pest ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": -65536,
+        "name": "Rat Color"
+      },
+      {
+        "value": -256,
+        "name": "Mosquito Color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Sprint",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Keep"
+      },
+      {
+        "value": false,
+        "name": "Omnidirectional"
+      },
+      {
+        "value": "Hypixel",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Hack",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Dungeon ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "2D",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Teammate ESP"
+      },
+      {
+        "value": -16719360,
+        "name": "Team color"
+      },
+      {
+        "value": true,
+        "name": "Starred ESP"
+      },
+      {
+        "value": -700094,
+        "name": "Starred color"
+      },
+      {
+        "value": true,
+        "name": "Bat ESP"
+      },
+      {
+        "value": -7584493,
+        "name": "Bat color"
+      },
+      {
+        "value": true,
+        "name": "Miniboss ESP"
+      },
+      {
+        "value": -11861997,
+        "name": "SA color"
+      },
+      {
+        "value": -14513374,
+        "name": "LA color"
+      },
+      {
+        "value": -10362113,
+        "name": "AA color"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Server Rotations",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Arrow",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Ice Path",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Tic Tac Toe",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Simon",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 250.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Auto activate"
+      },
+      {
+        "value": false,
+        "name": "Skip"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Livid Finder",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Target the livid"
+      },
+      {
+        "value": true,
+        "name": "Hide fake livids"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Discord RPC",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Dungeon Map",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Clean",
+        "name": "Background"
+      },
+      {
+        "value": "Theme",
+        "name": "Border"
+      },
+      {
+        "value": -16777216,
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": true,
+        "name": "Disable in boss"
+      },
+      {
+        "value": true,
+        "name": "Draw normal room names"
+      },
+      {
+        "value": true,
+        "name": "Hide cleared room names"
+      },
+      {
+        "value": true,
+        "name": "Draw secret count"
+      },
+      {
+        "value": true,
+        "name": "Run info"
+      },
+      {
+        "value": 8.0,
+        "name": "Player size"
+      },
+      {
+        "value": false,
+        "name": "Translate to player"
+      },
+      {
+        "value": true,
+        "name": "Rotate map"
+      },
+      {
+        "value": 2.0,
+        "name": "Y offset"
+      },
+      {
+        "value": 1.0,
+        "name": "Scale"
+      },
+      {
+        "value": 7.0,
+        "name": "Font size"
+      },
+      {
+        "value": false,
+        "name": "Show minibosses"
+      },
+      {
+        "value": 0.05,
+        "name": "x"
+      },
+      {
+        "value": 0.15,
+        "name": "y"
+      },
+      {
+        "name": "Reset position"
+      },
+      {
+        "value": -16745472,
+        "name": "Entrance color"
+      },
+      {
+        "value": -9420261,
+        "name": "Normal color"
+      },
+      {
+        "value": -1212764,
+        "name": "Fairy color"
+      },
+      {
+        "value": -2631119,
+        "name": "Yellow color"
+      },
+      {
+        "value": -6209025,
+        "name": "Puzzle color"
+      },
+      {
+        "value": -1090725,
+        "name": "Trap color"
+      },
+      {
+        "value": -786432,
+        "name": "Blood color"
+      },
+      {
+        "value": -6267354,
+        "name": "Rare color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Crop Nuker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 3.0,
+        "name": "Breaks per tick"
+      },
+      {
+        "value": 6.0,
+        "name": "Vertical Range"
+      },
+      {
+        "value": 10.0,
+        "name": "Skip Mushrooms"
+      },
+      {
+        "value": true,
+        "name": "Only tools"
+      },
+      {
+        "value": true,
+        "name": "Check for replenish"
+      },
+      {
+        "value": false,
+        "name": "Sand."
+      },
+      {
+        "value": true,
+        "name": "No ghost blocks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Foliage",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Hitbox + Render",
+        "name": "Remove"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Inventory Manager",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Inv open",
+        "name": "Mode"
+      },
+      {
+        "value": 30.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Drop trash"
+      },
+      {
+        "value": "Skyblock",
+        "name": "Trash items"
+      },
+      {
+        "value": false,
+        "name": "Middle click to drop"
+      },
+      {
+        "value": false,
+        "name": "Auto Armor"
+      },
+      {
+        "value": 0.0,
+        "name": "Sword slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Rod slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Bow slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Pickaxe slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Axe slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Shovel slot"
+      },
+      {
+        "value": 0.0,
+        "name": "Block slot"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Hide Summons",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Hide near boss"
+      },
+      {
+        "value": true,
+        "name": "Hide wither cloak"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Gui Move",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Sneak"
+      },
+      {
+        "value": false,
+        "name": "Hide terminals"
+      },
+      {
+        "value": false,
+        "name": "No Containers"
+      },
+      {
+        "value": false,
+        "name": "Disable in Melody"
+      },
+      {
+        "value": false,
+        "name": "Only terminals"
+      },
+      {
+        "name": "Hide gui"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Impact Spammer",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 250.0,
+        "name": "Interval"
+      },
+      {
+        "value": false,
+        "name": "Render Range"
+      },
+      {
+        "value": true,
+        "name": "Render only in dungeon"
+      },
+      {
+        "value": false,
+        "name": "Only held"
+      },
+      {
+        "value": false,
+        "name": "Third person"
+      },
+      {
+        "value": false,
+        "name": "Only up"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Hotbar Swapper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Slot 1"
+      },
+      {
+        "value": false,
+        "name": "Slot 2"
+      },
+      {
+        "value": false,
+        "name": "Slot 3"
+      },
+      {
+        "value": false,
+        "name": "Slot 4"
+      },
+      {
+        "value": false,
+        "name": "Slot 5"
+      },
+      {
+        "value": false,
+        "name": "Slot 6"
+      },
+      {
+        "value": false,
+        "name": "Slot 7"
+      },
+      {
+        "value": false,
+        "name": "Slot 8"
+      },
+      {
+        "value": false,
+        "name": "Slot 9"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Camera",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 4.0,
+        "name": "Camera Distance"
+      },
+      {
+        "value": true,
+        "name": "Camera Clip"
+      },
+      {
+        "value": false,
+        "name": "No hurt cam"
+      },
+      {
+        "value": false,
+        "name": "No front"
+      },
+      {
+        "value": true,
+        "name": "Smooth f5"
+      },
+      {
+        "value": 1.0,
+        "name": "Smooth speed"
+      },
+      {
+        "value": 3.0,
+        "name": "Start distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Jump Boost",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Only in Dungeon"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Door ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "Without key"
+      },
+      {
+        "value": true,
+        "name": "Key ESP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "AOTV Return",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "/warp forge",
+        "name": "Warp command"
+      },
+      {
+        "value": "walk",
+        "name": "mode"
+      },
+      {
+        "value": "0.5,167,-10.5;-23.5,180,-26.5;-64.5,212,-15.5;-33.5,244,-32.5",
+        "name": "TP Coords"
+      },
+      {
+        "value": true,
+        "name": "Open chat"
+      },
+      {
+        "value": false,
+        "name": "Middle click"
+      },
+      {
+        "value": 2000.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Void",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Blink",
+        "name": "Mode"
+      },
+      {
+        "value": 5.0,
+        "name": "Fall distance"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Fast Break",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 1.0,
+        "name": "Speed"
+      },
+      {
+        "value": 0.0,
+        "name": "Additional blocks"
+      },
+      {
+        "value": true,
+        "name": "Less packets"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Terminal Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Terminal Reach "
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": true,
+        "name": "Only Ground"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Fish",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Only Assist"
+      },
+      {
+        "value": true,
+        "name": "Anti AFK Movement"
+      },
+      {
+        "value": true,
+        "name": "Anti AFK Rotations"
+      },
+      {
+        "value": true,
+        "name": "Auto Impact"
+      },
+      {
+        "value": 105.0,
+        "name": "Impact Interval"
+      },
+      {
+        "name": "Enable No Rotate"
+      },
+      {
+        "value": false,
+        "name": "Player Detection"
+      },
+      {
+        "value": 15.0,
+        "name": "Detection Range"
+      },
+      {
+        "value": false,
+        "name": "Slugfish (10s+)"
+      },
+      {
+        "value": false,
+        "name": "Auto Totem"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Shortbow Triggerbot",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Right",
+        "name": "Click"
+      },
+      {
+        "value": 12.0,
+        "name": "Max CPS"
+      },
+      {
+        "value": 8.0,
+        "name": "Min CPS"
+      },
+      {
+        "value": 100.0,
+        "name": "Max shot delay"
+      },
+      {
+        "value": 150.0,
+        "name": "Min shot delay"
+      },
+      {
+        "value": false,
+        "name": "Hit blazes"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Mushroom ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Tracers"
+      },
+      {
+        "value": false,
+        "name": "Nuker"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Anti Nukekubi",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Distance"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": true,
+        "name": "Attack with aura"
+      },
+      {
+        "value": 100.0,
+        "name": "Timeout"
+      },
+      {
+        "value": true,
+        "name": "Tracer"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Arcade ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Cinderbat ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Stun Snake",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Predict tail position (Beta)"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Vanquisher ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Box",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Notify"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Disabler",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Hypixel",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Interfaces",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Custom chat"
+      },
+      {
+        "value": false,
+        "name": "Chat in gui"
+      },
+      {
+        "value": false,
+        "name": "No chat background"
+      },
+      {
+        "value": false,
+        "name": "Custom chat font"
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": false,
+        "name": "Shadow"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Stair Phase",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "On press",
+        "name": "Activate"
+      },
+      {
+        "value": true,
+        "name": "Activate inside a block"
+      },
+      {
+        "value": true,
+        "name": "Clip down"
+      },
+      {
+        "value": true,
+        "name": "Barrier clip"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Frag Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "",
+        "name": "Frag Bot"
+      },
+      {
+        "value": "None",
+        "name": "Auto Join"
+      },
+      {
+        "value": true,
+        "name": "Auto Ready"
+      },
+      {
+        "value": true,
+        "name": "/dh"
+      },
+      {
+        "value": true,
+        "name": "/pd"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Block Hit",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Grotto Notification",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Vampire Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto Impel"
+      },
+      {
+        "value": true,
+        "name": "Rotation Impel"
+      },
+      {
+        "value": false,
+        "name": "Hide Impel"
+      },
+      {
+        "value": "Vampire Island",
+        "name": "Auto Tuba"
+      },
+      {
+        "value": true,
+        "name": "Auto Break Totem"
+      },
+      {
+        "value": true,
+        "name": "Auto Holy Ice"
+      },
+      {
+        "value": 0.5,
+        "name": "Auto Ice Time"
+      },
+      {
+        "value": true,
+        "name": "Auto Steak Stake"
+      },
+      {
+        "value": true,
+        "name": "Auto Healing Melon"
+      },
+      {
+        "value": 50.0,
+        "name": "Melon health"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "FD Swapper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 750.0,
+        "name": "Swap back delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Animations",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.0,
+        "name": "X"
+      },
+      {
+        "value": 0.0,
+        "name": "Y"
+      },
+      {
+        "value": 0.0,
+        "name": "Z"
+      },
+      {
+        "value": 1.0,
+        "name": "Size"
+      },
+      {
+        "value": 6.0,
+        "name": "Speed"
+      },
+      {
+        "value": 2.0,
+        "name": "Reset swing"
+      },
+      {
+        "value": "1.8",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Smooth swing"
+      },
+      {
+        "value": true,
+        "name": "No equip reset"
+      },
+      {
+        "value": false,
+        "name": "No item change animation"
+      },
+      {
+        "value": true,
+        "name": "Ignore haste"
+      },
+      {
+        "value": 0.0,
+        "name": "X Rotation"
+      },
+      {
+        "value": 0.0,
+        "name": "Y Rotation"
+      },
+      {
+        "value": 0.0,
+        "name": "Z Rotation"
+      },
+      {
+        "value": false,
+        "name": "Hide hand"
+      },
+      {
+        "name": "Reset"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Relay",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Beams",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Cloak",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Yang Glyph"
+      },
+      {
+        "value": "Cloak",
+        "name": "Yang Mode"
+      },
+      {
+        "value": true,
+        "name": "Pillar"
+      },
+      {
+        "value": 1.0,
+        "name": "Time"
+      },
+      {
+        "value": 30.0,
+        "name": "Distance"
+      },
+      {
+        "value": false,
+        "name": "On health"
+      },
+      {
+        "value": 30.0,
+        "name": "Health"
+      },
+      {
+        "value": false,
+        "name": "From inventory"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Kill Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Single",
+        "name": "Mode"
+      },
+      {
+        "value": 150.0,
+        "name": "Switch delay"
+      },
+      {
+        "value": 4.2,
+        "name": "Range"
+      },
+      {
+        "value": 6.0,
+        "name": "Rotation Range"
+      },
+      {
+        "value": 11.0,
+        "name": "Min CPS"
+      },
+      {
+        "value": 13.0,
+        "name": "Max CPS"
+      },
+      {
+        "value": "Distance",
+        "name": "Sorting"
+      },
+      {
+        "value": "Closest",
+        "name": "Target point"
+      },
+      {
+        "value": "Simple",
+        "name": "Rotation mode"
+      },
+      {
+        "value": 12.0,
+        "name": "Smoothing"
+      },
+      {
+        "value": 60.0,
+        "name": "Max rotation"
+      },
+      {
+        "value": 30.0,
+        "name": "Min rotation"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": "None",
+        "name": "Autoblock"
+      },
+      {
+        "value": false,
+        "name": "Players"
+      },
+      {
+        "value": true,
+        "name": "Mobs"
+      },
+      {
+        "value": false,
+        "name": "Invisibles"
+      },
+      {
+        "value": true,
+        "name": "Teams"
+      },
+      {
+        "value": false,
+        "name": "Swing on rotation"
+      },
+      {
+        "value": false,
+        "name": "Movement fix"
+      },
+      {
+        "value": false,
+        "name": "Click only"
+      },
+      {
+        "value": true,
+        "name": "Through walls"
+      },
+      {
+        "value": true,
+        "name": "No containers"
+      },
+      {
+        "value": true,
+        "name": "Disable on join"
+      },
+      {
+        "value": false,
+        "name": "Only swords"
+      },
+      {
+        "value": false,
+        "name": "Draw range"
+      },
+      {
+        "value": false,
+        "name": "Spade swap"
+      },
+      {
+        "value": false,
+        "name": "Always spade swap"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Creeper Nametags",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Make visible"
+      },
+      {
+        "value": true,
+        "name": "Sneaky creeper ESP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Reset VL",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Jumps"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Inquisitor ESP",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Box",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Notify"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Nucleus Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Tracers"
+      },
+      {
+        "value": true,
+        "name": "Goblin King"
+      },
+      {
+        "value": -256,
+        "name": "Goblin King color"
+      },
+      {
+        "value": true,
+        "name": "Goblin Queen"
+      },
+      {
+        "value": -14336,
+        "name": "Goblin Queen color"
+      },
+      {
+        "value": true,
+        "name": "Jungle Temple"
+      },
+      {
+        "value": -65281,
+        "name": "Jungle Temple color"
+      },
+      {
+        "value": true,
+        "name": "Precursor City"
+      },
+      {
+        "value": -16711681,
+        "name": "Precursor City color"
+      },
+      {
+        "value": true,
+        "name": "Mines of Divan"
+      },
+      {
+        "value": -16711936,
+        "name": "Mines of Divan color"
+      },
+      {
+        "value": true,
+        "name": "Bal"
+      },
+      {
+        "value": -65536,
+        "name": "Bal color"
+      },
+      {
+        "value": true,
+        "name": "Key Guardian"
+      },
+      {
+        "value": -8619008,
+        "name": "Key Guardian color"
+      },
+      {
+        "value": true,
+        "name": "Dragon's Lair"
+      },
+      {
+        "value": -1,
+        "name": "Dragon's Lair color"
+      },
+      {
+        "value": true,
+        "name": "Bear Story"
+      },
+      {
+        "value": -8625664,
+        "name": "Bear Story color"
+      },
+      {
+        "value": true,
+        "name": "Xalx's Ravine"
+      },
+      {
+        "value": -16731648,
+        "name": "Xalx's Ravine color"
+      },
+      {
+        "value": true,
+        "name": "Jungle Shop"
+      },
+      {
+        "value": -5066240,
+        "name": "Jungle Shop color"
+      },
+      {
+        "value": true,
+        "name": "Corleone 1"
+      },
+      {
+        "value": -5066240,
+        "name": "Corleone 1 color"
+      },
+      {
+        "value": true,
+        "name": "Corleone 2"
+      },
+      {
+        "value": -5066240,
+        "name": "Corleone 2 color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Velocity",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 0.0,
+        "name": "Horizontal"
+      },
+      {
+        "value": 0.0,
+        "name": "Vertical"
+      },
+      {
+        "value": true,
+        "name": "Skyblock kb"
+      },
+      {
+        "value": 1.0,
+        "name": "SB horizontal"
+      },
+      {
+        "value": 1.0,
+        "name": "SB vertical"
+      },
+      {
+        "value": false,
+        "name": "Control"
+      },
+      {
+        "value": false,
+        "name": "Vertical Jerry-chine"
+      },
+      {
+        "value": false,
+        "name": "Only on skyblock"
+      },
+      {
+        "value": false,
+        "name": "Only in dungeon"
+      },
+      {
+        "value": false,
+        "name": "Kuudra lava kb"
+      },
+      {
+        "value": true,
+        "name": "Near slime blocks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Kill Insults",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Dungeon",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Only >=300 -> <300"
+      },
+      {
+        "name": "Open"
+      },
+      {
+        "name": "Reload"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Color Codes",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": -16777216,
+        "name": "0 color"
+      },
+      {
+        "value": -16777046,
+        "name": "1 color"
+      },
+      {
+        "value": -16733696,
+        "name": "2 color"
+      },
+      {
+        "value": -16733526,
+        "name": "3 color"
+      },
+      {
+        "value": -5636096,
+        "name": "4 color"
+      },
+      {
+        "value": -5635926,
+        "name": "5 color"
+      },
+      {
+        "value": -22016,
+        "name": "6 color"
+      },
+      {
+        "value": -5592406,
+        "name": "7 color"
+      },
+      {
+        "value": -11184811,
+        "name": "8 color"
+      },
+      {
+        "value": -11184641,
+        "name": "9 color"
+      },
+      {
+        "value": -11141291,
+        "name": "a color"
+      },
+      {
+        "value": -11141121,
+        "name": "b color"
+      },
+      {
+        "value": -43691,
+        "name": "c color"
+      },
+      {
+        "value": -43521,
+        "name": "d color"
+      },
+      {
+        "value": -171,
+        "name": "e color"
+      },
+      {
+        "value": -1,
+        "name": "f color"
+      },
+      {
+        "name": "Reset colors"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Pingless Hardstone",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 0.0,
+        "name": "Mining Speed"
+      },
+      {
+        "value": false,
+        "name": "Gold"
+      },
+      {
+        "value": false,
+        "name": "Ores"
+      },
+      {
+        "value": true,
+        "name": "Prevent walking into blocks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Extra Features",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Auto Snipe"
+      },
+      {
+        "value": false,
+        "name": "Auto route setup"
+      },
+      {
+        "name": "Auto route setup keybind"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Divan Chest Finder",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Phobia",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto sign"
+      },
+      {
+        "value": true,
+        "name": "Auto math"
+      },
+      {
+        "value": true,
+        "name": "No blind"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "VClip",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": -7.0,
+        "name": "Distance "
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Right Clicker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Min CPS"
+      },
+      {
+        "value": 12.0,
+        "name": "Max CPS"
+      },
+      {
+        "value": false,
+        "name": "Sync with TPS"
+      },
+      {
+        "value": "Held",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Armor Swapper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 1.0,
+        "name": "Armor count"
+      },
+      {
+        "value": 9.0,
+        "name": "Start index"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Mask",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Swap on health"
+      },
+      {
+        "value": 30.0,
+        "name": "Swap health"
+      },
+      {
+        "value": false,
+        "name": "Swap back"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Heal",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Wither Impact"
+      },
+      {
+        "value": 60.0,
+        "name": "Impact health"
+      },
+      {
+        "value": false,
+        "name": "Wand"
+      },
+      {
+        "value": 60.0,
+        "name": "Wand health"
+      },
+      {
+        "value": false,
+        "name": "Pigman Sword"
+      },
+      {
+        "value": 60.0,
+        "name": "Pigman Sword health"
+      },
+      {
+        "value": false,
+        "name": "Zombie Sword"
+      },
+      {
+        "value": 60.0,
+        "name": "Zombie Sword health"
+      },
+      {
+        "value": false,
+        "name": "Sword of Bad Health"
+      },
+      {
+        "value": false,
+        "name": "From Inv"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Secret Aura",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Aura",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Trigger bot"
+      },
+      {
+        "value": 360.0,
+        "name": "Fov"
+      },
+      {
+        "value": false,
+        "name": "Rotation"
+      },
+      {
+        "value": 5.0,
+        "name": "Reach"
+      },
+      {
+        "value": 5.0,
+        "name": "Essence reach"
+      },
+      {
+        "value": "",
+        "name": "Item"
+      },
+      {
+        "value": false,
+        "name": "From inventory"
+      },
+      {
+        "value": 400.0,
+        "name": "Click delay"
+      },
+      {
+        "value": false,
+        "name": "Redstone key"
+      },
+      {
+        "value": true,
+        "name": "Click Doors"
+      },
+      {
+        "value": true,
+        "name": "Close chests"
+      },
+      {
+        "value": false,
+        "name": "Disable in boss"
+      },
+      {
+        "value": false,
+        "name": "Disable in gui"
+      },
+      {
+        "value": false,
+        "name": "Secret ESP"
+      },
+      {
+        "value": false,
+        "name": "Render Range"
+      },
+      {
+        "value": false,
+        "name": "Highlight Clicked"
+      },
+      {
+        "value": false,
+        "name": "Play sound"
+      },
+      {
+        "value": "random.orb",
+        "name": "Sound"
+      },
+      {
+        "value": 0.5,
+        "name": "Pitch"
+      },
+      {
+        "value": 1.0,
+        "name": "Volume"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Rod Stacker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "After hit"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Reach",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 3.0,
+        "name": "Min Range"
+      },
+      {
+        "value": 3.0,
+        "name": "Max Range"
+      },
+      {
+        "value": 4.5,
+        "name": "Block Range"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Anti Obsidian",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Cancel pos packets"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "W Tap",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Legit",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Bow"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Murder Mystery",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Say murderer"
+      },
+      {
+        "value": true,
+        "name": "Ingot ESP"
+      },
+      {
+        "value": true,
+        "name": "Bow esp"
+      },
+      {
+        "value": true,
+        "name": "Tracers"
+      },
+      {
+        "value": true,
+        "name": "Reveal names"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Debuff",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Nausea"
+      },
+      {
+        "value": true,
+        "name": "Blindness"
+      },
+      {
+        "value": true,
+        "name": "Fire"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Mythological Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Highlight Burrows"
+      },
+      {
+        "value": true,
+        "name": "Burrow Aura"
+      },
+      {
+        "value": false,
+        "name": "Auto swap to spade"
+      },
+      {
+        "value": true,
+        "name": "Draw Echo"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Command Binding",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Show binds in the lore"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Tool",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Tools"
+      },
+      {
+        "value": true,
+        "name": "Swords"
+      },
+      {
+        "value": true,
+        "name": "Auto fire aspect"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Printer",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Hostage ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Enigma Soul ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Eagle",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Sneak",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Only Backwards"
+      },
+      {
+        "value": false,
+        "name": "Only look down"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Fairy Soul ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ],
+    "clicked": {
+      "clicked": {}
+    }
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "China Hat",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Crystal",
+        "name": "Mode"
+      },
+      {
+        "value": 0.7,
+        "name": "Radius"
+      },
+      {
+        "value": 0.3,
+        "name": "Height"
+      },
+      {
+        "value": false,
+        "name": "Show in first person"
+      },
+      {
+        "value": 5.0,
+        "name": "Rotation"
+      },
+      {
+        "value": 0.1,
+        "name": "Position"
+      },
+      {
+        "value": 8.0,
+        "name": "Angles"
+      },
+      {
+        "value": true,
+        "name": "Shade"
+      },
+      {
+        "value": "Rainbow",
+        "name": "Color mode"
+      },
+      {
+        "value": 0.0,
+        "name": "Red"
+      },
+      {
+        "value": 80.0,
+        "name": "Green"
+      },
+      {
+        "value": 255.0,
+        "name": "Blue"
+      },
+      {
+        "value": 255.0,
+        "name": "Red 1"
+      },
+      {
+        "value": 0.0,
+        "name": "Green 1"
+      },
+      {
+        "value": 255.0,
+        "name": "Blue 1"
+      },
+      {
+        "value": 90.0,
+        "name": "Red 2"
+      },
+      {
+        "value": 10.0,
+        "name": "Green 2"
+      },
+      {
+        "value": 255.0,
+        "name": "Blue 2"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Join Skyblock",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto join Hypixel"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Maddox",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Spawn",
+        "name": "Call on"
+      },
+      {
+        "value": true,
+        "name": "Mute"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "IRC",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": -5177817,
+        "name": "Color"
+      },
+      {
+        "value": "Gray",
+        "name": "Name color"
+      },
+      {
+        "value": "White",
+        "name": "Message color"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Weirdos",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Blaze",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Right",
+        "name": "Click"
+      },
+      {
+        "value": 1500.0,
+        "name": "Retry Delay"
+      },
+      {
+        "value": false,
+        "name": "Use terminator"
+      },
+      {
+        "value": false,
+        "name": "Only still"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Brush",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": -16711681,
+        "name": "Ring Color"
+      },
+      {
+        "value": -16731470,
+        "name": "Chained Ring Color"
+      },
+      {
+        "value": -16711681,
+        "name": "Line Color"
+      },
+      {
+        "value": -1,
+        "name": "Await Secret Color"
+      },
+      {
+        "value": 64.0,
+        "name": "Render distance"
+      },
+      {
+        "value": true,
+        "name": "Render through walls"
+      },
+      {
+        "value": 0.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Swing to retry"
+      },
+      {
+        "value": false,
+        "name": "Disable rings"
+      },
+      {
+        "name": "Clear current room"
+      },
+      {
+        "name": "Clear world brush"
+      },
+      {
+        "name": "Clear brush"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Joey",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Combine",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Combine Shards"
+      },
+      {
+        "value": 50.0,
+        "name": "Action Interval"
+      },
+      {
+        "value": 150.0,
+        "name": "Pickup Delay"
+      },
+      {
+        "value": 10.0,
+        "name": "Max Level"
+      },
+      {
+        "value": false,
+        "name": "Claim from bz"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Popup Animation",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Click Gui"
+      },
+      {
+        "value": false,
+        "name": "Inventory"
+      },
+      {
+        "value": false,
+        "name": "Chests"
+      },
+      {
+        "value": 0.75,
+        "name": "Starting size"
+      },
+      {
+        "value": 200.0,
+        "name": "Time"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Rat Protection",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Only when connected"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Boss Bar",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Slayer Boss Bar"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Delays",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 0.0,
+        "name": "Hit Delay"
+      },
+      {
+        "value": 0.0,
+        "name": "Jump Delay"
+      },
+      {
+        "value": 0.0,
+        "name": "Place Delay"
+      },
+      {
+        "value": false,
+        "name": "Only Term"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Motion Blur",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.2,
+        "name": "Blur amount"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Plus Color Changer",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": "Dark blue",
+        "name": "Plus color"
+      },
+      {
+        "value": false,
+        "name": "Change level colors"
+      },
+      {
+        "value": "White",
+        "name": "Bracket color"
+      },
+      {
+        "value": "Yellow",
+        "name": "Level color"
+      },
+      {
+        "value": "",
+        "name": "Fake level"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Frozille",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Living Metal Miner",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Bar Phase",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Phase",
+        "name": "Mode"
+      },
+      {
+        "value": "Keybind",
+        "name": "Trigger"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Hide Players",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Only AntiBot valid"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Rogue",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 31.0,
+        "name": "Delay"
+      },
+      {
+        "value": false,
+        "name": "Only dungeon"
+      },
+      {
+        "value": false,
+        "name": "From inv"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Daily",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Prioritize EXP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Anti Stuck",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Jax Range",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 400.0,
+        "name": "Cooldown"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Mithril Macro",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Rotations"
+      },
+      {
+        "value": false,
+        "name": "Drill Refuel"
+      },
+      {
+        "value": 5.0,
+        "name": "Accuracy"
+      },
+      {
+        "value": true,
+        "name": "Prioritize titanium"
+      },
+      {
+        "value": false,
+        "name": "Sneak"
+      },
+      {
+        "value": 0.9,
+        "name": "Block skip progress"
+      },
+      {
+        "value": 160.0,
+        "name": "Max break time"
+      },
+      {
+        "value": true,
+        "name": "Auto ability"
+      },
+      {
+        "value": false,
+        "name": "Mine under"
+      },
+      {
+        "value": 100.0,
+        "name": "Auto leave"
+      },
+      {
+        "value": 5.0,
+        "name": "Head movements"
+      },
+      {
+        "value": 0.1,
+        "name": "Walking %"
+      },
+      {
+        "value": 5.0,
+        "name": "Walking ticks"
+      },
+      {
+        "value": "Clay",
+        "name": "Target"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Gemstone ESP",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.20000000298023224,
+        "name": "Alpha"
+      },
+      {
+        "value": false,
+        "name": "Extra range"
+      },
+      {
+        "value": 64.0,
+        "name": "Range"
+      },
+      {
+        "value": true,
+        "name": "Jasper ESP"
+      },
+      {
+        "value": true,
+        "name": "Ruby ESP"
+      },
+      {
+        "value": true,
+        "name": "Jade ESP"
+      },
+      {
+        "value": true,
+        "name": "Amber ESP"
+      },
+      {
+        "value": true,
+        "name": "Sapphire ESP"
+      },
+      {
+        "value": true,
+        "name": "Amethyst ESP"
+      },
+      {
+        "value": true,
+        "name": "Topaz ESP"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Render",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Only Hidden"
+      },
+      {
+        "value": false,
+        "name": "1 fps"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Left Clicker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 10.0,
+        "name": "Min CPS"
+      },
+      {
+        "value": 12.0,
+        "name": "Max CPS"
+      },
+      {
+        "value": false,
+        "name": "Sync with TPS"
+      },
+      {
+        "value": "Held",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Visitors",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Decline non-bazaar items"
+      },
+      {
+        "value": false,
+        "name": "Sacks only"
+      },
+      {
+        "value": false,
+        "name": "Only accept profitable"
+      },
+      {
+        "value": 0.0,
+        "name": "Garden exp price"
+      },
+      {
+        "value": 5000.0,
+        "name": "Copper price"
+      },
+      {
+        "value": true,
+        "name": "Limit price"
+      },
+      {
+        "value": 500000.0,
+        "name": "Max price"
+      },
+      {
+        "value": 0.0,
+        "name": "Extra delay"
+      },
+      {
+        "value": false,
+        "name": "Ignore spaceman"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Bridge Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Goal Blocker"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Macro Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "Player Detection"
+      },
+      {
+        "value": 10.0,
+        "name": "- Range"
+      },
+      {
+        "value": true,
+        "name": "- Disable modules"
+      },
+      {
+        "value": false,
+        "name": "Anti AFK"
+      },
+      {
+        "value": false,
+        "name": "- Rotations"
+      },
+      {
+        "value": false,
+        "name": "- Walking"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Free Cam",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 3.0,
+        "name": "Speed"
+      },
+      {
+        "value": 2.0,
+        "name": "Vertical speed"
+      },
+      {
+        "value": true,
+        "name": "Hide gemstones"
+      },
+      {
+        "value": false,
+        "name": "Show tracer"
+      },
+      {
+        "value": false,
+        "name": "Reset rotation"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Garden Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto cleanup"
+      },
+      {
+        "value": 1.0,
+        "name": "Blocks per tick"
+      },
+      {
+        "value": false,
+        "name": "Break stone"
+      },
+      {
+        "value": true,
+        "name": "Swap item"
+      },
+      {
+        "value": true,
+        "name": "Auto Composter"
+      },
+      {
+        "value": true,
+        "name": "Pingless Cactus"
+      },
+      {
+        "value": false,
+        "name": "Full hitboxes"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Anti Tentacle",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Kuudra Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Auto build"
+      },
+      {
+        "value": 5.0,
+        "name": "Build distance"
+      },
+      {
+        "value": 5.0,
+        "name": "Build CPS"
+      },
+      {
+        "value": false,
+        "name": "Rotate"
+      },
+      {
+        "value": true,
+        "name": "Auto stun"
+      },
+      {
+        "value": 5.0,
+        "name": "Stun distance"
+      },
+      {
+        "value": 20.0,
+        "name": "Stop percent"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Scoreboard",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 0.995,
+        "name": "x"
+      },
+      {
+        "value": 0.35,
+        "name": "y"
+      },
+      {
+        "value": true,
+        "name": "Custom font"
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": true,
+        "name": "Shadow"
+      },
+      {
+        "value": true,
+        "name": "Hide lobby"
+      },
+      {
+        "value": "Right",
+        "name": "Expand to"
+      },
+      {
+        "value": false,
+        "name": "Vanilla position"
+      },
+      {
+        "value": false,
+        "name": "Outline"
+      },
+      {
+        "value": "Gui Color",
+        "name": "Outline Mode"
+      },
+      {
+        "value": false,
+        "name": "Mix colors"
+      },
+      {
+        "value": false,
+        "name": "DVD"
+      },
+      {
+        "value": -1,
+        "name": "Outline Color"
+      },
+      {
+        "name": "Reset position"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Enchanting",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 200.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Reveal superpairs"
+      },
+      {
+        "value": true,
+        "name": "Auto close"
+      },
+      {
+        "value": 0.0,
+        "name": "Serum"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Nametags",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Render simple name"
+      },
+      {
+        "value": true,
+        "name": "Render armor"
+      },
+      {
+        "value": "Normal",
+        "name": "Armor scale"
+      },
+      {
+        "value": true,
+        "name": "Render held item"
+      },
+      {
+        "value": "Normal",
+        "name": "Held item scale"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Water",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Module List",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Shadow"
+      },
+      {
+        "value": true,
+        "name": "Blur"
+      },
+      {
+        "value": true,
+        "name": "Line"
+      },
+      {
+        "value": false,
+        "name": "Lowercase"
+      },
+      {
+        "value": 5.0,
+        "name": "Margin"
+      }
+    ]
+  },
+  {
+    "toggled": true,
+    "keyCode": 0,
+    "name": "Mod Hider",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Build Guesser",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": false,
+        "name": "AFK Mode"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Block Nuker",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.5,
+        "name": "Range"
+      },
+      {
+        "value": 90.0,
+        "name": "Skip on"
+      },
+      {
+        "value": 60.0,
+        "name": "Max break time"
+      },
+      {
+        "value": true,
+        "name": "No delay"
+      },
+      {
+        "value": true,
+        "name": "Only with tools"
+      },
+      {
+        "value": false,
+        "name": "Break block under you"
+      },
+      {
+        "value": true,
+        "name": "Scroll click to whitelist"
+      },
+      {
+        "value": "",
+        "name": "Allowed Blocks"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Render Barriers",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Names Only",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": "Friends",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Middle Click"
+      }
+    ],
+    "names": []
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "No Carpet",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Glint",
+    "settings": [
+      {
+        "value": true,
+        "name": "Hide"
+      },
+      {
+        "value": 100.0,
+        "name": "Speed"
+      },
+      {
+        "value": "RGBA",
+        "name": "Color Mode"
+      },
+      {
+        "value": -16756481,
+        "name": "Color"
+      },
+      {
+        "value": 5.0,
+        "name": "Rainbow speed"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Dojo Helper",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": true,
+        "name": "Hide bad zombies"
+      },
+      {
+        "value": true,
+        "name": "Auto sword swap"
+      },
+      {
+        "value": true,
+        "name": "Tenacity float"
+      },
+      {
+        "value": true,
+        "name": "Stamina"
+      },
+      {
+        "value": true,
+        "name": "Mastery aimbot"
+      },
+      {
+        "value": 0.3,
+        "name": "Time"
+      },
+      {
+        "value": 0.6,
+        "name": "Bow charge"
+      },
+      {
+        "value": "Yellow",
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Control"
+      },
+      {
+        "value": true,
+        "name": "Swiftness"
+      }
+    ]
+  },
+  {
+    "toggled": false,
+    "keyCode": 0,
+    "name": "Auto Echo",
+    "settings": [
+      {
+        "value": false,
+        "name": "Hide"
+      },
+      {
+        "value": 5.0,
+        "name": "Health"
+      }
+    ]
+  }
+]
