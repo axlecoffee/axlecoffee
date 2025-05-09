@@ -51,6 +51,7 @@
 
 ### Backend
 
+![img](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
@@ -75,7 +76,7 @@
 
 ## Runtimes
 
-![img](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![img](https://img.shields.io/badge/TS%20node-3178C6?style=for-the-badge&logo=tsnode&logoColor=white)
 ![img](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 
