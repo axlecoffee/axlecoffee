@@ -13,7 +13,7 @@
 
 **Discord**: @axle.coffee ID: 790736254714642453
 
-**Email**: bloodymountain@outlook.com
+**Email**: contact@axle.coffee
 
 **Website**: https://axle.coffee
 
@@ -25,11 +25,11 @@
 
 [Moderator & Contributor @ Cardboard](https://github.com/CardboardPowered/cardboard "Cardboard, Fabric + Bukkit")
 
-[Contributor & File Checker @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
+[Contributor & Former File Checker @ Ratter Scanner](https://ratterscanner.com "RatterScanner")
 
-[Staff @ SkyClient](https://skyclient.co)
+[Former Staff @ SkyClient](https://skyclient.co)
 
-[Staff @ Polyfrost/Oneconfig](https://polyfrost.org)
+[Former Staff @ Polyfrost/Oneconfig](https://polyfrost.org)
 
 ## Languages
 
