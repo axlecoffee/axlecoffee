@@ -6,7 +6,7 @@
 
 - 17
 - File all complaints to my secretary, pqndy
-- self taught backend developer.
+- self taught more like wtf does line 42 mean
 - He/Them 🏳️‍🌈
 
 ## Projects And Contacts
