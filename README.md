@@ -1,6 +1,6 @@
 <img width="50%" align="right" src="https://gh-stats.axle.coffee/api?username=axlecoffee&count_private=true&include_all_commits=true&show_icons=true&theme=shadow_blue&icon_color=fff&hide_border=false&include_all_commits=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=axlecoffee&theme=shadow_blue&hide_border=false" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
-<img width="50%" align="right" src="https://gh-stats.axle.coffee/api/top-langs?username=axlecoffee&langs_count=6&count_private=true&include_all_commits=true&show_icons=true&theme=shadow_blue&icon_color=fff&hide_border=false&include_all_commits=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://gh-stats.axle.coffee/api/top-langs?username=axlecoffee&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&theme=shadow_blue&icon_color=fff&hide_border=false&include_all_commits=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
 # About Me
 
